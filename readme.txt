@@ -19,7 +19,7 @@ However, if you do not want to use the spoffle.com database on your site, please
 
 From within the admin options page you can set how often you want the quote to automatically change on your site by setting the poll interval: the default is 10 seconds (10000 ms).
 
-There are 3 themeable div elements. The overall ‘qotm_container’, and the ‘qotm_quote’ and ‘qotm_author’ elements. See the included style.css file for more information.
+There are 3 themeable div elements. The overall 'qotm_container', and the 'qotm_quote' and 'qotm_author' elements. See the included style.css file for more information.
 
 Also, if you mouseover the quote it will stop refreshing until you mouseleave the area, allowing you to read the quote without risk of it changing.
 
